@@ -15,3 +15,5 @@
 #6. Using the two models above, we used predict_proba() to predict the probability of customer churn for an individual customer given some metrics such as age, salary, tenure etc.,. This would be helpful to banks to identify the customers that have a high probability of leaving the bank in the future and target them with the right products and tailor marketing strategies.(Real-world business application)
 
 #7. To test our model's performance, we generated a mock data set with 1000 records and used our model to predict whether or not a customer will be leaving the bank.
+
+## Code - FinalCode.ipynb
